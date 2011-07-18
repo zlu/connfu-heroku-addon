@@ -22,7 +22,7 @@ class ConnfuApp < Sinatra::Base
 
   post "/heroku/resources" do
     protected!
-    # Create the connfu user and relevant details
+    # TODO: Create the connfu user and relevant details
     result = { :id => "1", :config => { "CONNFU_URL" => "usera@127.0.0.1", "CONNFU_PASSWD" => "1" } }
     result.to_json
   end
