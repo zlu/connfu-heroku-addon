@@ -1,0 +1,10 @@
+{
+  "id": "Connfu",
+  "api": {
+    "config_vars": [ "CONNFU_URL", "CONNFU_PASSWD" ],
+    "password": "zPtRdLgyWBsnDWaL",
+    "sso_salt": "OY3b8DV5Q4qOtCIh",
+    "production": "https://connfu.com/",
+    "test": "http://localhost:9292/"
+  }
+}
