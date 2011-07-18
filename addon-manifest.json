@@ -1,5 +1,5 @@
 {
-  "id": "Connfu",
+  "id": "connfu",
   "api": {
     "config_vars": [ "CONNFU_URL", "CONNFU_PASSWD" ],
     "password": "zPtRdLgyWBsnDWaL",
