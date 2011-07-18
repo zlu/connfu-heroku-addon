@@ -3,4 +3,7 @@ source "http://rubygems.org"
 
 gem "sinatra"
 gem "json"
-gem "kensa"
+
+group :development do
+  gem "kensa"
+end
