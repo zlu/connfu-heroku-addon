@@ -1,7 +1,7 @@
 {
   "id": "connfu",
   "api": {
-    "config_vars": [ "CONNFU_URL", "CONNFU_PASSWD" ],
+    "config_vars": [ "CONNFU_JABBER_URI" ],
     "password": "zPtRdLgyWBsnDWaL",
     "sso_salt": "OY3b8DV5Q4qOtCIh",
     "production": "https://connfu-addon.heroku.com/",
